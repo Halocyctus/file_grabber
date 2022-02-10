@@ -1,4 +1,11 @@
 # File_grabber
--A file gebber that works either in kali linux or windows systems. 
--The code is self explanatory.However, it has been obfuscated a bit.
--Comes in handy when you're lazy like me.
+### What does it do?
+
+Scans all of the storage system for an specific file. Said file is copied into a new location where it can be analysed.
+Operates on windows and posix compliant linux distros.
+
+## Usage
+
+1. Select wheder you want logs or not.
+2. Insert filename with extension.
+3. Enjoy the script.
